@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Ahmad 🧑🏻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Aldino 🧑🏻
 
 I research how **AI and learning analytics can make feedback better for students**, at scale and in ways teachers trust.
 
@@ -56,16 +56,10 @@ I'm a PhD candidate at the [Centre for Learning Analytics](https://www.monash.ed
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=hWAWKPwAAAAJ).
 
-## 🛠️ Side Project
-
-- [**Workspaces for Chrome**](https://github.com/ahmadarialdino/chrome-workspaces): a Safari-style workspace switcher for Chrome, with Tab Groups and sync across profiles.
-
 ## 🔍 Let's Connect
 
 <p>
   <a href="https://ahmadarialdino.github.io/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=hWAWKPwAAAAJ" target="_blank" rel="noopener noreferrer"><img alt="Google Scholar" src="https://img.shields.io/badge/google_scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ahmadarialdino" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&to=aldino@teknokrat.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ahmadarialdino" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+  <a href="https://mail.google.com/mail/?view=cm&to=aldino@teknokrat.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
