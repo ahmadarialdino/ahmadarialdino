@@ -4,7 +4,17 @@ I research how **AI and learning analytics can make feedback better for students
 
 I'm a PhD candidate at the [Centre for Learning Analytics](https://www.monash.edu/colam), **Monash University**, Australia, in the final stage of my thesis (submitting December 2026), and a Teaching Associate in Monash's Faculty of Information Technology. I'm also a Lecturer (Assistant Professor) in the Faculty of Engineering and Computer Sciences at **Universitas Teknokrat Indonesia**. I hold a BSc and MSc in Mathematics from Universitas Lampung.
 
-**Research interests:** AI in Education · Natural Language Processing · Learning Analytics · Educational Data Mining
+**Research interests:** AI in Education · Educational NLP · Learning Analytics · Human-AI Interaction · Responsible AI in Education
+
+> 🔎 **Open to postdoctoral positions** starting in 2027 in AI in education, learning analytics, and educational NLP.
+
+## 🧭 Research Focus
+
+- **Feedback analytics at scale:** machine learning and NLP models that characterise the quality of written feedback across thousands of courses, so institutions can see where feedback supports learners.
+- **Large language models for feedback:** evaluating how well LLMs generate and analyse feedback, and how prompting strategies affect their reliability.
+- **Human-centred AI with teachers:** mixed-methods studies of how teachers use, trust, and adapt AI-supported feedback tools in practice.
+
+**Methods & tools:** Python · machine learning & NLP (scikit-learn, transformers/BERT, PyTorch) · LLM prompting and evaluation · large-scale educational data analysis · mixed methods (surveys, interviews) · R
 
 ## 📃 Featured Publications
 
@@ -12,7 +22,7 @@ I'm a PhD candidate at the [Centre for Learning Analytics](https://www.monash.ed
 
 - **Enhancing learner-centered feedback with AI: teachers' practices and perceptions**<br>
   **A. A. Aldino**, B. Maheshi, Y. Li, Y. Zhou, Y.-S. Tsai, D. Gašević, G. Chen<br>
-  *Assessment & Evaluation in Higher Education*, 2026 · [DOI](https://doi.org/10.1080/02602938.2026.2638920)
+  *Assessment & Evaluation in Higher Education*, 2026 · [DOI](https://doi.org/10.1080/02602938.2026.2638920) · [Appendix](https://github.com/ahmadarialdino/Appendix)
 
 - **Analytics of learner-centered feedback: A large-scale case study in higher education**<br>
   **A. A. Aldino**, Y.-S. Tsai, S. Gupte, M. Henderson, D. Nath, D. Gašević, G. Chen<br>
